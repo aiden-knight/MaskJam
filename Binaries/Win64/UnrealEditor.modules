@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"MaskJam": "UnrealEditor-MaskJam.dll",
+		"MaskJamEditor": "UnrealEditor-MaskJamEditor.dll"
+	}
+}
